@@ -1,0 +1,13 @@
+.dart_tool/
+.idea/
+.vscode/
+android/
+ios/
+linux/
+macos/
+windows/
+build/*
+!build/web
+scratch/
+*.dll
+*.log
